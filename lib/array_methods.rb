@@ -35,8 +35,3 @@ def find_min_value(array)
   end
   return min_value
 end
-
-
-
-puts find_max_value([1, 2, 3, -5, 99, 2.2])
-puts find_min_value([1, 2, 3, -5, 99, 2.2])
